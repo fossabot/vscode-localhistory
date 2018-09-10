@@ -10,6 +10,7 @@ Persistant in-memory workspace local history for files. Files backed up every 10
 
 ![Alt text](/assets/localhistory.gif?raw=true "Local History Demo")
 ![Alt text](/assets/localhistory-config.gif?raw=true "Local History Demo")
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Flesyk%2Fvscode-localhistory.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Flesyk%2Fvscode-localhistory?ref=badge_shield)
 
 ## Extension Settings
 
@@ -31,3 +32,7 @@ With version `v0.0.3` we are introducing the ability to configure the back up in
 Please report if anything found.
 
 **Enjoy!**
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Flesyk%2Fvscode-localhistory.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Flesyk%2Fvscode-localhistory?ref=badge_large)
